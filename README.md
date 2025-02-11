@@ -1,5 +1,6 @@
-![Alt Text](Dashboard.png)
 # Sales Analysis for a Tech Store
+![Alt Text](Dashboard.png)
+
 
 ## Overview
 This project analyzes sales data for a tech store, breaking down performance by month, shift, and year. Using Excel, I identified key trends such as **top-selling products**, **highest sales months**, and **shift efficiency**. The analysis includes **pivot tables**, **charts**, and **detailed visualizations** to uncover actionable insights. This project demonstrates my ability to clean, analyze, and visualize data effectively.
