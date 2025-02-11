@@ -42,7 +42,7 @@ This project analyzes sales data for a tech store, breaking down performance by 
 - **Dashboard**: A comprehensive dashboard summarizing all key metrics.
 
 ## How to Use This Repository
-- Download the Excel file to explore the data and analysis: [Tech- Store Sales Analysis]([data/sales_data.xlsx](https://github.com/AdhamAyoub/Tech-Store-Data-analytics/blob/main/Tech-%20Store%20Sales%20Analysis.csv)).
+- Download the Excel file to explore the data and analysis: Tech- Store Sales Analysis.csv.
 - View the **dashboard** and **visualizations** in the Excel file.
 
 ## Conclusion
