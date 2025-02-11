@@ -1,3 +1,4 @@
+![Alt Text](Dashboard.png)
 # Sales Analysis for a Tech Store
 
 ## Overview
